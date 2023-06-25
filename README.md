@@ -1,6 +1,8 @@
 # imersaoDev
 go Linguagem e e microserviços
 
+https://go.dev/doc/install/source
+
 Remove any previous Go installation by deleting the /usr/local/go folder (if it exists), then extract the archive you just downloaded into /usr/local, creating a fresh Go tree in /usr/local/go:
 $ rm -rf /usr/local/go && tar -C /usr/local -xzf go1.20.5.linux-amd64.tar.gz
 
