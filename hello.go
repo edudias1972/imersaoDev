@@ -4,6 +4,7 @@ import "fmt"
 
 func main() {
 	fmt.Printf("hello, world\nEduardo Maurício Dias\n")
+	fmt.Printf("hello, world\n Golang\n")
 	fmt.Printf("GoLang programando em go\n")
 	fmt.Printf("Multiplataforma\n")
 	fmt.Printf("O que é golang?\n\n")
